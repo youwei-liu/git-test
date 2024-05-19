@@ -1,0 +1,5 @@
+本例以 Github 为例作为远程仓库，如果你没有 Github 可以在官网 https://github.com/注册。
+
+由于你的本地 Git 仓库和 GitHub 仓库之间的传输是通过SSH加密的，所以我们需要配置验证信息：
+
+使用以下命令生成 SSH Key：
